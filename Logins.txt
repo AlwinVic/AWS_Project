@@ -1,0 +1,11 @@
+Logins:
+
+Private Notes:
+RDS free service has been used
+Database name: wordpressdb
+Mysql admin password: mysqlpasswd
+
+Wordpress logins:
+User: Alwin
+Password: test123*
+
